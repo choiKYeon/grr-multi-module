@@ -1,3 +1,3 @@
 rootProject.name = "grr-multi-project"
 
-include("grr-pos", "grr-userapp")
+include("grr-pos", "grr-userapp", "grr-common")
